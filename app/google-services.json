@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "499630028860",
+    "firebase_url": "https://testlunchdb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testlunchdb",
+    "storage_bucket": "testlunchdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499630028860:android:c530dd9f66c967992f6b39",
+        "android_client_info": {
+          "package_name": "com.example.lunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499630028860-49drh388u1tjil4gkjr5p7glmbdr2f92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQR_fUMVIT8doJAbOB-NzY0qkRu9p5KYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499630028860-49drh388u1tjil4gkjr5p7glmbdr2f92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499630028860:android:b5748a17e7955bfc2f6b39",
+        "android_client_info": {
+          "package_name": "com.lunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499630028860-49drh388u1tjil4gkjr5p7glmbdr2f92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQR_fUMVIT8doJAbOB-NzY0qkRu9p5KYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499630028860-49drh388u1tjil4gkjr5p7glmbdr2f92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
